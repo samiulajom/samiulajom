@@ -1,5 +1,12 @@
 # 💫 About Me:
-💻 Motivated Computer Technology graduate with expertise in HTML, CSS, JavaScript, React, Next.js, GSAP, Bootstrap, Tailwind CSS, and Shopify customization.<br><br>🚀 Skilled in building responsive web applications and experienced in Microsoft Office, data management, and system optimization.<br><br>📚 Currently learning Express.js and expanding my backend development skills to become a full-stack developer.<br><br>🌱 Passionate about continuous learning, problem-solving, and creating efficient, user-friendly web solutions.
+
+🔭 I’m currently working on Shopify development and frontend projects.
+👯 I’m looking to collaborate on open-source and innovative web projects.
+🤝 I’m looking for help with mastering advanced frontend technologies.
+🌱 I’m currently learning Express.js for the backend.
+💬 Ask me about frontend development, Shopify, React, JavaScript, and UI/UX.
+⚡ Fun fact: I enjoy experimenting with animations and building creative digital experiences.
+
 
 
 ## 🌐 Socials:
