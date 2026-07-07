@@ -43,9 +43,13 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=samiulajom&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=samiulajom&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=samiulajom&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=samiulajom&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
